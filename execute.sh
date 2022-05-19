@@ -1,4 +1,4 @@
-./Scripts/python.exe << END
+python << END
 from main import Main
 Main()
 END
